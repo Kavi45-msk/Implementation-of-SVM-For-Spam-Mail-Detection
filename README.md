@@ -51,10 +51,14 @@ Head():
 
 
 ![328008742-37e16030-4437-49d8-b3ec-3f3c68a7d5fa](https://github.com/Kavi45-msk/Implementation-of-SVM-For-Spam-Mail-Detection/assets/147457752/ae51797f-ca26-46be-a925-2196d8ac9488)
+
+
 Kernel Model:
 
 
 ![328008775-d4e22103-87c3-43d4-a5e6-85fc8aaa8d7e](https://github.com/Kavi45-msk/Implementation-of-SVM-For-Spam-Mail-Detection/assets/147457752/241480ac-731e-4408-b891-407bd4dadeb5)
+
+
 #Accuracy and Classification Report :
 
 
